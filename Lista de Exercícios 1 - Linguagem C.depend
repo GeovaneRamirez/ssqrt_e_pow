@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1647302623 source:c:\00 - meus programas\programas em c\lista de exercícios 1 - linguagem c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
+1647303880 source:c:\00 - meus programas\programas em c\lista de exercícios 1 - linguagem c - exercício 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
